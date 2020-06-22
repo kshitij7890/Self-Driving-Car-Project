@@ -2,18 +2,18 @@
 Fully Functional Self-Driving Car project made using concepts of Deep Learning
 
 
-### To Start Simulation
+### To Start Simulation :
 1. Open anaconda powershell
 2. Activate your virtual environment "conda activate myenviron"
 3. Run drive.py file "python drive.py"
-4. Then open Udacity Car Simulator and test your model on any track in autonomous mode. 
+4. Then open Udacity Car Simulator and test your model on any track in autonomous mode
 
-### Tools used
+### Tools used :
 1. Udacity Car Simulator
 2. Google Collab
 3. Anaconda Powershell
 
-#### Download Udacity Self Drive Car Simulator
+### Download Udacity Self Drive Car Simulator :
 Instructions: Download the zip file, extract it and run the executable file.
 
 Version 2, 2/07/17
