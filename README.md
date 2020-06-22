@@ -12,6 +12,7 @@ Fully Functional Self-Driving Car project made using concepts of Deep Learning
 1. Udacity Car Simulator
 2. Google Collab
 3. Anaconda Powershell
+4. Atom Text Editor
 
 ### Download Udacity Self Drive Car Simulator :
 Instructions: Download the zip file, extract it and run the executable file.
